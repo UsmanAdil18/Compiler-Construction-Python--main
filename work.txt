@@ -1,0 +1,19 @@
+abstract Class Viraad  {
+    Sameer(){
+        int x;
+    }
+    int a;
+    int b;
+    int c;
+    string y = a+b*c;
+    abstract int function myfunc(int x){
+    y++;    
+    z++;
+        }
+    abstract int function myfunc(int x){
+        u++;
+    }    
+}
+function start(){
+   Sameer obj = new Sameer() ;
+}
